@@ -1,0 +1,17 @@
+.menu{
+    display: flex;
+    background: rgb(134, 5, 134);
+}
+
+nav{
+    
+    font-family: 'Courier New', Courier, monospace;
+    flex-direction: row;
+    
+   
+}
+
+a{
+    color:aliceblue;
+
+}
